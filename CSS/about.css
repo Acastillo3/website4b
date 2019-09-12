@@ -1,0 +1,15 @@
+h1{
+    font-family: 'anton', sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 200px;
+    text-shadow: 5px 5px white;
+    margin: 0px;
+}
+.words{
+    font-family: 'chilanka', cursive;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: justify;
+    padding: 20px;
+}
